@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="Default Web Site" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^D:\\VB\\VBNET\\SIGNALR\\AHAS_SignalR\\testsignalr\\obj\\Release\\Package\\PackageTmp$" />
+    <parameterEntry kind="ProviderPath" scope="setAcl" match="^D:\\VB\\VBNET\\SIGNALR\\AHAS_SignalR\\testsignalr\\obj\\Release\\Package\\PackageTmp$" />
+  </parameter>
+  <parameter name="AHASdb-Web.config Connection String" description="" value="Data Source=sparky;Initial Catalog=AHAS;Integrated Security=True" tags="">
+    <parameterEntry kind="XmlFile" scope="D:\\VB\\VBNET\\SIGNALR\\AHAS_SignalR\\testsignalr\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='AHASdb']/@connectionString" />
+  </parameter>
+  <parameter name="ARCHIVEConnectionString-Web.config Connection String" description="" value="Data Source=sparky;Initial Catalog=ARCHIVE;Integrated Security=True" tags="">
+    <parameterEntry kind="XmlFile" scope="D:\\VB\\VBNET\\SIGNALR\\AHAS_SignalR\\testsignalr\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='ARCHIVEConnectionString']/@connectionString" />
+  </parameter>
+  <parameter name="DETECTConnectionString-Web.config Connection String" description="" value="Data Source=monkey;Initial Catalog=DETECT;Integrated Security=True" tags="">
+    <parameterEntry kind="XmlFile" scope="D:\\VB\\VBNET\\SIGNALR\\AHAS_SignalR\\testsignalr\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='DETECTConnectionString']/@connectionString" />
+  </parameter>
+  <parameter name="GOOGLEConnectionString-Web.config Connection String" description="" value="Data Source=SPARKY;Initial Catalog=GOOGLE;Integrated Security=True;Persist Security Info=False" tags="">
+    <parameterEntry kind="XmlFile" scope="D:\\VB\\VBNET\\SIGNALR\\AHAS_SignalR\\testsignalr\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='GOOGLEConnectionString']/@connectionString" />
+  </parameter>
+</parameters>

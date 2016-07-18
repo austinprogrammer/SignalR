@@ -1,0 +1,120 @@
+C:\Users\FcoJavier\Dropbox\DeTect Development\testsignalr\testsignalr\obj\Debug\testsignalr.vbprojResolveAssemblyReference.cache
+C:\Users\FcoJavier\Dropbox\DeTect Development\testsignalr\testsignalr\obj\Debug\testsignalr.Resources.resources
+C:\Users\FcoJavier\Dropbox\DeTect Development\testsignalr\testsignalr\obj\Debug\testsignalr.vbproj.GenerateResource.Cache
+C:\Users\FcoJavier\Dropbox\DeTect Development\testsignalr\testsignalr\bin\testsignalr.dll.config
+C:\Users\FcoJavier\Dropbox\DeTect Development\testsignalr\testsignalr\bin\testsignalr.dll
+C:\Users\FcoJavier\Dropbox\DeTect Development\testsignalr\testsignalr\bin\testsignalr.pdb
+C:\Users\FcoJavier\Dropbox\DeTect Development\testsignalr\testsignalr\bin\testsignalr.xml
+C:\Users\FcoJavier\Dropbox\DeTect Development\testsignalr\testsignalr\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\FcoJavier\Dropbox\DeTect Development\testsignalr\testsignalr\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\FcoJavier\Dropbox\DeTect Development\testsignalr\testsignalr\bin\Microsoft.Owin.dll
+C:\Users\FcoJavier\Dropbox\DeTect Development\testsignalr\testsignalr\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\FcoJavier\Dropbox\DeTect Development\testsignalr\testsignalr\bin\Microsoft.Owin.Security.dll
+C:\Users\FcoJavier\Dropbox\DeTect Development\testsignalr\testsignalr\bin\Newtonsoft.Json.dll
+C:\Users\FcoJavier\Dropbox\DeTect Development\testsignalr\testsignalr\bin\Owin.dll
+C:\Users\FcoJavier\Dropbox\DeTect Development\testsignalr\testsignalr\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\FcoJavier\Dropbox\DeTect Development\testsignalr\testsignalr\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\FcoJavier\Dropbox\DeTect Development\testsignalr\testsignalr\bin\Microsoft.Owin.xml
+C:\Users\FcoJavier\Dropbox\DeTect Development\testsignalr\testsignalr\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\FcoJavier\Dropbox\DeTect Development\testsignalr\testsignalr\bin\Microsoft.Owin.Security.xml
+C:\Users\FcoJavier\Dropbox\DeTect Development\testsignalr\testsignalr\bin\Newtonsoft.Json.xml
+C:\Users\FcoJavier\Dropbox\DeTect Development\testsignalr\testsignalr\obj\Debug\testsignalr.dll
+C:\Users\FcoJavier\Dropbox\DeTect Development\testsignalr\testsignalr\obj\Debug\testsignalr.xml
+C:\Users\FcoJavier\Dropbox\DeTect Development\testsignalr\testsignalr\obj\Debug\testsignalr.pdb
+D:\VB\VBNET\SIGNALR\javi\testsignalr\bin\testsignalr.dll.config
+D:\VB\VBNET\SIGNALR\javi\testsignalr\bin\testsignalr.dll
+D:\VB\VBNET\SIGNALR\javi\testsignalr\bin\testsignalr.pdb
+D:\VB\VBNET\SIGNALR\javi\testsignalr\bin\testsignalr.xml
+D:\VB\VBNET\SIGNALR\javi\testsignalr\bin\Microsoft.AspNet.SignalR.Core.dll
+D:\VB\VBNET\SIGNALR\javi\testsignalr\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+D:\VB\VBNET\SIGNALR\javi\testsignalr\bin\Microsoft.Data.Services.Client.dll
+D:\VB\VBNET\SIGNALR\javi\testsignalr\bin\Microsoft.Data.Services.dll
+D:\VB\VBNET\SIGNALR\javi\testsignalr\bin\Microsoft.Owin.dll
+D:\VB\VBNET\SIGNALR\javi\testsignalr\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\VB\VBNET\SIGNALR\javi\testsignalr\bin\Microsoft.Owin.Security.dll
+D:\VB\VBNET\SIGNALR\javi\testsignalr\bin\Newtonsoft.Json.dll
+D:\VB\VBNET\SIGNALR\javi\testsignalr\bin\Owin.dll
+D:\VB\VBNET\SIGNALR\javi\testsignalr\bin\Microsoft.Data.OData.dll
+D:\VB\VBNET\SIGNALR\javi\testsignalr\bin\Microsoft.Data.Edm.dll
+D:\VB\VBNET\SIGNALR\javi\testsignalr\bin\System.Spatial.dll
+D:\VB\VBNET\SIGNALR\javi\testsignalr\bin\Microsoft.AspNet.SignalR.Core.xml
+D:\VB\VBNET\SIGNALR\javi\testsignalr\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+D:\VB\VBNET\SIGNALR\javi\testsignalr\bin\Microsoft.Data.Services.xml
+D:\VB\VBNET\SIGNALR\javi\testsignalr\bin\Microsoft.Data.Services.Client.xml
+D:\VB\VBNET\SIGNALR\javi\testsignalr\bin\Microsoft.Owin.xml
+D:\VB\VBNET\SIGNALR\javi\testsignalr\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\VB\VBNET\SIGNALR\javi\testsignalr\bin\Microsoft.Owin.Security.xml
+D:\VB\VBNET\SIGNALR\javi\testsignalr\bin\Newtonsoft.Json.xml
+D:\VB\VBNET\SIGNALR\javi\testsignalr\bin\Microsoft.Data.OData.xml
+D:\VB\VBNET\SIGNALR\javi\testsignalr\bin\Microsoft.Data.Edm.xml
+D:\VB\VBNET\SIGNALR\javi\testsignalr\bin\System.Spatial.xml
+D:\VB\VBNET\SIGNALR\javi\testsignalr\obj\Debug\testsignalr.vbprojResolveAssemblyReference.cache
+D:\VB\VBNET\SIGNALR\javi\testsignalr\obj\Debug\testsignalr.Resources.resources
+D:\VB\VBNET\SIGNALR\javi\testsignalr\obj\Debug\testsignalr.vbproj.GenerateResource.Cache
+D:\VB\VBNET\SIGNALR\javi\testsignalr\obj\Debug\testsignalr.dll
+D:\VB\VBNET\SIGNALR\javi\testsignalr\obj\Debug\testsignalr.xml
+D:\VB\VBNET\SIGNALR\javi\testsignalr\obj\Debug\testsignalr.pdb
+D:\VB\VBNET\SIGNALR\TestSignalR\testsignalr\bin\testsignalr.dll.config
+D:\VB\VBNET\SIGNALR\TestSignalR\testsignalr\bin\testsignalr.dll
+D:\VB\VBNET\SIGNALR\TestSignalR\testsignalr\bin\testsignalr.pdb
+D:\VB\VBNET\SIGNALR\TestSignalR\testsignalr\bin\testsignalr.xml
+D:\VB\VBNET\SIGNALR\TestSignalR\testsignalr\bin\Microsoft.AspNet.SignalR.Core.dll
+D:\VB\VBNET\SIGNALR\TestSignalR\testsignalr\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+D:\VB\VBNET\SIGNALR\TestSignalR\testsignalr\bin\Microsoft.Data.Services.Client.dll
+D:\VB\VBNET\SIGNALR\TestSignalR\testsignalr\bin\Microsoft.Data.Services.dll
+D:\VB\VBNET\SIGNALR\TestSignalR\testsignalr\bin\Microsoft.Owin.dll
+D:\VB\VBNET\SIGNALR\TestSignalR\testsignalr\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\VB\VBNET\SIGNALR\TestSignalR\testsignalr\bin\Microsoft.Owin.Security.dll
+D:\VB\VBNET\SIGNALR\TestSignalR\testsignalr\bin\Newtonsoft.Json.dll
+D:\VB\VBNET\SIGNALR\TestSignalR\testsignalr\bin\Owin.dll
+D:\VB\VBNET\SIGNALR\TestSignalR\testsignalr\bin\Microsoft.Data.OData.dll
+D:\VB\VBNET\SIGNALR\TestSignalR\testsignalr\bin\Microsoft.Data.Edm.dll
+D:\VB\VBNET\SIGNALR\TestSignalR\testsignalr\bin\System.Spatial.dll
+D:\VB\VBNET\SIGNALR\TestSignalR\testsignalr\bin\Microsoft.AspNet.SignalR.Core.xml
+D:\VB\VBNET\SIGNALR\TestSignalR\testsignalr\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+D:\VB\VBNET\SIGNALR\TestSignalR\testsignalr\bin\Microsoft.Data.Services.xml
+D:\VB\VBNET\SIGNALR\TestSignalR\testsignalr\bin\Microsoft.Data.Services.Client.xml
+D:\VB\VBNET\SIGNALR\TestSignalR\testsignalr\bin\Microsoft.Owin.xml
+D:\VB\VBNET\SIGNALR\TestSignalR\testsignalr\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\VB\VBNET\SIGNALR\TestSignalR\testsignalr\bin\Microsoft.Owin.Security.xml
+D:\VB\VBNET\SIGNALR\TestSignalR\testsignalr\bin\Newtonsoft.Json.xml
+D:\VB\VBNET\SIGNALR\TestSignalR\testsignalr\bin\Microsoft.Data.OData.xml
+D:\VB\VBNET\SIGNALR\TestSignalR\testsignalr\bin\Microsoft.Data.Edm.xml
+D:\VB\VBNET\SIGNALR\TestSignalR\testsignalr\bin\System.Spatial.xml
+D:\VB\VBNET\SIGNALR\TestSignalR\testsignalr\obj\Debug\testsignalr.Resources.resources
+D:\VB\VBNET\SIGNALR\TestSignalR\testsignalr\obj\Debug\testsignalr.vbproj.GenerateResource.Cache
+D:\VB\VBNET\SIGNALR\TestSignalR\testsignalr\obj\Debug\testsignalr.dll
+D:\VB\VBNET\SIGNALR\TestSignalR\testsignalr\obj\Debug\testsignalr.xml
+D:\VB\VBNET\SIGNALR\TestSignalR\testsignalr\obj\Debug\testsignalr.pdb
+D:\VB\VBNET\SIGNALR\TestSignalR\testsignalr\obj\Debug\testsignalr.vbprojResolveAssemblyReference.cache
+D:\VB\VBNET\SIGNALR\AHAS_SignalR\testsignalr\bin\testsignalr.dll.config
+D:\VB\VBNET\SIGNALR\AHAS_SignalR\testsignalr\bin\testsignalr.dll
+D:\VB\VBNET\SIGNALR\AHAS_SignalR\testsignalr\bin\testsignalr.pdb
+D:\VB\VBNET\SIGNALR\AHAS_SignalR\testsignalr\bin\testsignalr.xml
+D:\VB\VBNET\SIGNALR\AHAS_SignalR\testsignalr\bin\Microsoft.AspNet.SignalR.Core.dll
+D:\VB\VBNET\SIGNALR\AHAS_SignalR\testsignalr\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+D:\VB\VBNET\SIGNALR\AHAS_SignalR\testsignalr\bin\Microsoft.Owin.dll
+D:\VB\VBNET\SIGNALR\AHAS_SignalR\testsignalr\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\VB\VBNET\SIGNALR\AHAS_SignalR\testsignalr\bin\Microsoft.Owin.Security.dll
+D:\VB\VBNET\SIGNALR\AHAS_SignalR\testsignalr\bin\Newtonsoft.Json.dll
+D:\VB\VBNET\SIGNALR\AHAS_SignalR\testsignalr\bin\Owin.dll
+D:\VB\VBNET\SIGNALR\AHAS_SignalR\testsignalr\bin\Microsoft.Data.OData.dll
+D:\VB\VBNET\SIGNALR\AHAS_SignalR\testsignalr\bin\Microsoft.Data.Edm.dll
+D:\VB\VBNET\SIGNALR\AHAS_SignalR\testsignalr\bin\System.Spatial.dll
+D:\VB\VBNET\SIGNALR\AHAS_SignalR\testsignalr\bin\Microsoft.AspNet.SignalR.Core.xml
+D:\VB\VBNET\SIGNALR\AHAS_SignalR\testsignalr\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+D:\VB\VBNET\SIGNALR\AHAS_SignalR\testsignalr\bin\Microsoft.Data.Services.xml
+D:\VB\VBNET\SIGNALR\AHAS_SignalR\testsignalr\bin\Microsoft.Data.Services.Client.xml
+D:\VB\VBNET\SIGNALR\AHAS_SignalR\testsignalr\bin\Microsoft.Owin.xml
+D:\VB\VBNET\SIGNALR\AHAS_SignalR\testsignalr\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\VB\VBNET\SIGNALR\AHAS_SignalR\testsignalr\bin\Microsoft.Owin.Security.xml
+D:\VB\VBNET\SIGNALR\AHAS_SignalR\testsignalr\bin\Newtonsoft.Json.xml
+D:\VB\VBNET\SIGNALR\AHAS_SignalR\testsignalr\bin\Microsoft.Data.OData.xml
+D:\VB\VBNET\SIGNALR\AHAS_SignalR\testsignalr\bin\Microsoft.Data.Edm.xml
+D:\VB\VBNET\SIGNALR\AHAS_SignalR\testsignalr\bin\System.Spatial.xml
+D:\VB\VBNET\SIGNALR\AHAS_SignalR\testsignalr\obj\Debug\testsignalr.vbprojResolveAssemblyReference.cache
+D:\VB\VBNET\SIGNALR\AHAS_SignalR\testsignalr\obj\Debug\testsignalr.Resources.resources
+D:\VB\VBNET\SIGNALR\AHAS_SignalR\testsignalr\obj\Debug\testsignalr.vbproj.GenerateResource.Cache
+D:\VB\VBNET\SIGNALR\AHAS_SignalR\testsignalr\obj\Debug\testsignalr.dll
+D:\VB\VBNET\SIGNALR\AHAS_SignalR\testsignalr\obj\Debug\testsignalr.xml
+D:\VB\VBNET\SIGNALR\AHAS_SignalR\testsignalr\obj\Debug\testsignalr.pdb

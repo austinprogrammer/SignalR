@@ -1,0 +1,252 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+testsignalr
+</name>
+</assembly>
+<members>
+<member name="P:testsignalr.CompositeType.BoolValue">
+	<remarks/>
+</member><member name="P:testsignalr.CompositeType.BoolValueSpecified">
+	<remarks/>
+</member><member name="P:testsignalr.CompositeType.StringValue">
+	<remarks/>
+</member><member name="T:testsignalr.CompositeType">
+	<remarks/>
+</member><member name="F:testsignalr.AHAS.form1">
+	<summary>
+form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:testsignalr.AHAS.lbl1">
+	<summary>
+lbl1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:testsignalr.AHAS.RadioButtonList2">
+	<summary>
+RadioButtonList2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:testsignalr.AHAS.hiddenID">
+	<summary>
+hiddenID control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:testsignalr.AHAS.hiddenType">
+	<summary>
+hiddenType control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:testsignalr.AHAS.hiddenM">
+	<summary>
+hiddenM control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:testsignalr.AHAS.hiddenD">
+	<summary>
+hiddenD control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:testsignalr.AHAS.hiddenH">
+	<summary>
+hiddenH control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:testsignalr.AHAS.hiddenIP">
+	<summary>
+hiddenIP control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:testsignalr.AHAS.hiddenQuery">
+	<summary>
+hiddenQuery control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:testsignalr.AHAS.hiddenVR">
+	<summary>
+hiddenVR control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:testsignalr.AHAS.hiddenIR">
+	<summary>
+hiddenIR control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:testsignalr.AHAS.hiddenSR">
+	<summary>
+hiddenSR control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:testsignalr.AHAS.hiddenMOA">
+	<summary>
+hiddenMOA control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:testsignalr.AHAS.hiddenAA">
+	<summary>
+hiddenAA control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:testsignalr.AHAS.hiddenRANGE">
+	<summary>
+hiddenRANGE control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:testsignalr.AHAS.hiddenMILAIR">
+	<summary>
+hiddenMILAIR control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:testsignalr.AHAS.hiddenUNIT">
+	<summary>
+hiddenUNIT control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:testsignalr.AHAS.hiddenUNIT2">
+	<summary>
+hiddenUNIT2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:testsignalr.AHAS.hiddenICAO1">
+	<summary>
+hiddenICAO1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:testsignalr.AHAS.hiddenICAO2">
+	<summary>
+hiddenICAO2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:testsignalr.AHAS.area">
+	<summary>
+area control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:testsignalr.AHAS.lstMonth">
+	<summary>
+lstMonth control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:testsignalr.AHAS.lstDay">
+	<summary>
+lstDay control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:testsignalr.AHAS.lstHour">
+	<summary>
+lstHour control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:testsignalr.AHAS.btnShowChart">
+	<summary>
+btnShowChart.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="P:testsignalr.My.MyWebExtension.Computer">
+	<summary>
+ Returns information about the host computer.
+ </summary>
+</member><member name="P:testsignalr.My.MyWebExtension.User">
+	<summary>
+ Returns information for the current Web user.
+ </summary>
+</member><member name="P:testsignalr.My.MyWebExtension.Request">
+	<summary>
+ Returns Request object.
+ </summary>
+</member><member name="P:testsignalr.My.MyWebExtension.Response">
+	<summary>
+ Returns Response object.
+ </summary>
+</member><member name="P:testsignalr.My.MyWebExtension.Log">
+	<summary>
+ Returns the Asp log object.
+ </summary>
+</member><member name="T:testsignalr.My.MyWebExtension">
+	<summary>
+ Module used to define the properties that are available in the My Namespace for Web projects.
+ </summary>
+	<remarks></remarks>
+</member>
+</members>
+</doc>
